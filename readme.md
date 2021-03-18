@@ -11,5 +11,6 @@ Normally stuff like this could be done without plugin using built-in tools provi
 
 ## Known issues
 * Will not work properly if more than one copy of FFXIV is running simultaneously. 
+* Clear encounter data on combat end option breaks Triggernometry's zone locking.
 ## Automatically starting ACT on FFXIV launch
 Please use [FFXIV Quick Launcher](https://github.com/goatcorp/FFXIVQuickLauncher) to do that.
